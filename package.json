@@ -1,0 +1,36 @@
+{
+  "name": "@shankarmorwal/usebackbuttonhook",
+  "version": "1.0.0",
+  "description": "Use back button hook for react native",
+  "keywords": [
+    "react",
+    "native",
+    "use",
+    "back",
+    "buttton",
+    "control",
+    "back",
+    "button"
+  ],
+  "author": "Shankar <shankar@habilelabs.io>",
+  "homepage": "https://github.com/habilelabs/reactNative-UseBackButton-hook",
+  "license": "ISC",
+  "main": "lib/useBackButton.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habilelabs/reactNative-UseBackButton-hook.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/habilelabs/reactNative-UseBackButton-hook/issues"
+  }
+}
